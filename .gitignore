@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+data/internal_restricted/
+*.h5ad
+*.rds
+*.RData
+*.fastq*
+*.bam
+replay*/
+modules/SIDISH_input_bridge_reconstruction/input_bridge_reconstruction/outputs/
