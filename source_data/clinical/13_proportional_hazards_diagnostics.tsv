@@ -1,0 +1,49 @@
+cohort	model	n	events	term	chisq	df	p	transform	status	reason	interpretation
+GSE125966	score_only	553	100	score	0.0534357456427779	1	0.817189159505227	rank	ESTIMATED	NA	Term PH diagnostic; failure to reject does not prove PH
+GSE125966	score_only	553	100	GLOBAL	0.0534357456427779	1	0.817189159505227	rank	ESTIMATED	NA	Omnibus model PH diagnostic; failure to reject does not prove PH
+GSE125966	base_adjusted	538	96	score	0.00163534503209525	1	0.967742819665218	rank	ESTIMATED	NA	Term PH diagnostic; failure to reject does not prove PH
+GSE125966	base_adjusted	538	96	ipi4	6.80366226493675	3	0.0784261100544804	rank	ESTIMATED	NA	Term PH diagnostic; failure to reject does not prove PH
+GSE125966	base_adjusted	538	96	coo	1.63606971897125	2	0.441298015575894	rank	ESTIMATED	NA	Term PH diagnostic; failure to reject does not prove PH
+GSE125966	base_adjusted	538	96	treatment	1.40444141898183	1	0.235981345573423	rank	ESTIMATED	NA	Term PH diagnostic; failure to reject does not prove PH
+GSE125966	base_adjusted	538	96	GLOBAL	11.0285070027627	7	0.137380383817686	rank	ESTIMATED	NA	Omnibus model PH diagnostic; failure to reject does not prove PH
+GSE125966	score_x_COO	538	96	score	0.000286921767605204	1	0.986485467013882	rank	ESTIMATED	NA	Score PH at reference level of interacting factor; not all subgroup slopes
+GSE125966	score_x_COO	538	96	ipi4	7.18302568058305	3	0.0662873589076842	rank	ESTIMATED	NA	Term PH diagnostic; failure to reject does not prove PH
+GSE125966	score_x_COO	538	96	coo	1.4372030728737	2	0.487433437446943	rank	ESTIMATED	NA	Term PH diagnostic; failure to reject does not prove PH
+GSE125966	score_x_COO	538	96	treatment	1.58265755227334	1	0.208378309484195	rank	ESTIMATED	NA	Term PH diagnostic; failure to reject does not prove PH
+GSE125966	score_x_COO	538	96	score:coo	0.0834895276828044	2	0.959114550047555	rank	ESTIMATED	NA	Term PH diagnostic; failure to reject does not prove PH
+GSE125966	score_x_COO	538	96	GLOBAL	11.1455606778002	9	0.265863351145496	rank	ESTIMATED	NA	Omnibus model PH diagnostic; failure to reject does not prove PH
+GSE125966	score_x_treatment	538	96	score	0.00246068203278137	1	0.96043695320885	rank	ESTIMATED	NA	Score PH at reference level of interacting factor; not all subgroup slopes
+GSE125966	score_x_treatment	538	96	ipi4	6.59637897351719	3	0.0859380732019939	rank	ESTIMATED	NA	Term PH diagnostic; failure to reject does not prove PH
+GSE125966	score_x_treatment	538	96	coo	1.75486792218238	2	0.415848627521048	rank	ESTIMATED	NA	Term PH diagnostic; failure to reject does not prove PH
+GSE125966	score_x_treatment	538	96	treatment	1.66938217286934	1	0.19634130774334	rank	ESTIMATED	NA	Term PH diagnostic; failure to reject does not prove PH
+GSE125966	score_x_treatment	538	96	score:treatment	0.565510206711862	1	0.452048577059263	rank	ESTIMATED	NA	Term PH diagnostic; failure to reject does not prove PH
+GSE125966	score_x_treatment	538	96	GLOBAL	11.9240674523995	8	0.154624098332383	rank	ESTIMATED	NA	Omnibus model PH diagnostic; failure to reject does not prove PH
+GSE117556	score_only	928	153	score	1.50248209449579	1	0.220289845782212	rank	ESTIMATED	NA	Term PH diagnostic; failure to reject does not prove PH
+GSE117556	score_only	928	153	GLOBAL	1.50248209449579	1	0.220289845782212	rank	ESTIMATED	NA	Omnibus model PH diagnostic; failure to reject does not prove PH
+GSE117556	base_adjusted	928	153	score	1.86472499209597	1	0.172080457488318	rank	ESTIMATED	NA	Term PH diagnostic; failure to reject does not prove PH
+GSE117556	base_adjusted	928	153	ipi4	4.36012698632053	3	0.225111141058648	rank	ESTIMATED	NA	Term PH diagnostic; failure to reject does not prove PH
+GSE117556	base_adjusted	928	153	coo	2.31275870151042	2	0.314623261629769	rank	ESTIMATED	NA	Term PH diagnostic; failure to reject does not prove PH
+GSE117556	base_adjusted	928	153	treatment	0.155109573292366	1	0.693699519435861	rank	ESTIMATED	NA	Term PH diagnostic; failure to reject does not prove PH
+GSE117556	base_adjusted	928	153	GLOBAL	7.91194002750225	7	0.340423015553947	rank	ESTIMATED	NA	Omnibus model PH diagnostic; failure to reject does not prove PH
+GSE117556	score_x_IPI	928	153	score	2.60768698338895	1	0.106346773097938	rank	ESTIMATED	NA	Score PH at reference level of interacting factor; not all subgroup slopes
+GSE117556	score_x_IPI	928	153	ipi4	3.76597817171552	3	0.287868318378934	rank	ESTIMATED	NA	Term PH diagnostic; failure to reject does not prove PH
+GSE117556	score_x_IPI	928	153	coo	2.43077025829201	2	0.296595764621481	rank	ESTIMATED	NA	Term PH diagnostic; failure to reject does not prove PH
+GSE117556	score_x_IPI	928	153	treatment	0.223667158537252	1	0.636259821834503	rank	ESTIMATED	NA	Term PH diagnostic; failure to reject does not prove PH
+GSE117556	score_x_IPI	928	153	score:ipi4	4.95868944443104	3	0.17484721943405	rank	ESTIMATED	NA	Term PH diagnostic; failure to reject does not prove PH
+GSE117556	score_x_IPI	928	153	GLOBAL	10.1316875981442	10	0.429016900033562	rank	ESTIMATED	NA	Omnibus model PH diagnostic; failure to reject does not prove PH
+GSE117556	score_x_COO	928	153	score	2.34739285017155	1	0.125492732160272	rank	ESTIMATED	NA	Score PH at reference level of interacting factor; not all subgroup slopes
+GSE117556	score_x_COO	928	153	ipi4	4.41634666316759	3	0.219874449924089	rank	ESTIMATED	NA	Term PH diagnostic; failure to reject does not prove PH
+GSE117556	score_x_COO	928	153	coo	1.82930140947916	2	0.400656549085829	rank	ESTIMATED	NA	Term PH diagnostic; failure to reject does not prove PH
+GSE117556	score_x_COO	928	153	treatment	0.105726260043398	1	0.745063198895068	rank	ESTIMATED	NA	Term PH diagnostic; failure to reject does not prove PH
+GSE117556	score_x_COO	928	153	score:coo	2.44254529815315	2	0.294854681505965	rank	ESTIMATED	NA	Term PH diagnostic; failure to reject does not prove PH
+GSE117556	score_x_COO	928	153	GLOBAL	8.5797188872284	9	0.476937773697468	rank	ESTIMATED	NA	Omnibus model PH diagnostic; failure to reject does not prove PH
+GSE117556	score_x_treatment	928	153	score	1.80036279389494	1	0.179668641053965	rank	ESTIMATED	NA	Score PH at reference level of interacting factor; not all subgroup slopes
+GSE117556	score_x_treatment	928	153	ipi4	4.41163358988919	3	0.220309104452779	rank	ESTIMATED	NA	Term PH diagnostic; failure to reject does not prove PH
+GSE117556	score_x_treatment	928	153	coo	2.27807370928038	2	0.320127202410676	rank	ESTIMATED	NA	Term PH diagnostic; failure to reject does not prove PH
+GSE117556	score_x_treatment	928	153	treatment	0.129903689229116	1	0.718531918103228	rank	ESTIMATED	NA	Term PH diagnostic; failure to reject does not prove PH
+GSE117556	score_x_treatment	928	153	score:treatment	0.232504508714826	1	0.62967295940274	rank	ESTIMATED	NA	Term PH diagnostic; failure to reject does not prove PH
+GSE117556	score_x_treatment	928	153	GLOBAL	8.58064666027469	8	0.378896328631366	rank	ESTIMATED	NA	Omnibus model PH diagnostic; failure to reject does not prove PH
+GSE87371	score_only	221	53	score	0.205657538669654	1	0.650192482905524	rank	ESTIMATED	NA	Term PH diagnostic; failure to reject does not prove PH
+GSE87371	score_only	221	53	GLOBAL	0.205657538669654	1	0.650192482905524	rank	ESTIMATED	NA	Omnibus model PH diagnostic; failure to reject does not prove PH
+GSE31312	score_only	470	170	score	1.23588738399755	1	0.266265129830579	rank	ESTIMATED	NA	Term PH diagnostic; failure to reject does not prove PH
+GSE31312	score_only	470	170	GLOBAL	1.23588738399755	1	0.266265129830579	rank	ESTIMATED	NA	Omnibus model PH diagnostic; failure to reject does not prove PH

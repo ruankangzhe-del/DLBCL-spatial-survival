@@ -1,0 +1,18 @@
+record_type	cohort	role	include_main_meta	n	events	log_hr	se	hr	lower95	upper95	p	score_unit	original_development_sd	ties	source_row	source_file	input_key	metric	value	selector	derivation
+cohort	GSE125966	independent_primary	True	553	100	0.36868119353274997	0.067263876013359397	1.4458265913239501	1.26724647795684	1.6495721775844101	4.2264816674321403e-08	1 original development SD	0.40770106952174001	efron	2	outputs/10_cohort_primary_effects.tsv	effects	NA	NA	NA	NA
+cohort	GSE117556	independent_primary	True	928	153	0.40485540613801602	0.071977649181202696	1.4990857257904899	1.3018441108016301	1.7262112987437599	1.8578992449630901e-08	1 original development SD	0.40770106952174001	efron	3	outputs/10_cohort_primary_effects.tsv	effects	NA	NA	NA	NA
+cohort	GSE87371	locked_reassessment_supplementary	False	221	53	0.77056282542570198	0.150296088113889	2.16098216728754	1.6096035488209199	2.9012385880706701	2.9444979215538299e-07	1 original development SD	0.40770106952174001	efron	4	outputs/10_cohort_primary_effects.tsv	effects	NA	NA	NA	NA
+cohort	GSE31312	supportive_reused_supplementary	False	470	170	0.26043233853681302	0.067506012336736004	1.29749092074815	1.13669279096503	1.4810357757214501	0.000114359226424246	1 original development SD	0.40770106952174001	efron	5	outputs/10_cohort_primary_effects.tsv	effects	NA	NA	NA	NA
+frozen_design	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	task3_parameters	development_patients	414	development_patients	NA
+frozen_design	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	task3_parameters	development_deaths	165	development_deaths	NA
+frozen_design	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	main	candidate_genes	100	candidate_genes	NA
+frozen_design	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	main	main_nonzero_genes	10	main_nonzero_genes	NA
+input_coverage	GSE125966	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	mapping	new_background	2087	GSE125966.new_background	NA
+input_coverage	GSE125966	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	mapping	measured_top100	97	GSE125966.measured_top100	NA
+input_coverage	GSE125966	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	mapping	measured_nonzero	10	GSE125966.measured_nonzero	NA
+input_coverage	GSE117556	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	mapping	new_background	2010	GSE117556.new_background	NA
+input_coverage	GSE117556	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	mapping	measured_top100	97	GSE117556.measured_top100	NA
+input_coverage	GSE117556	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	mapping	measured_nonzero	10	GSE117556.measured_nonzero	NA
+candidate_pool_count	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	pools	COVERAGE_PASS	330	status == COVERAGE_PASS	count rows, unique original pool_id
+candidate_pool_count	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	pools	COVERAGE_FAILED	169	status == COVERAGE_FAILED	count rows, unique original pool_id
+null_evaluation	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	null_report	external_null_evaluation_count	0	No external survival evaluation or empirical P	NA

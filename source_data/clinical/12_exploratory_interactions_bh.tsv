@@ -1,0 +1,7 @@
+cohort	interaction_class	n	events	full_coefficients	lr_chisq	df	p	bh_q	planned_family_n	status	reason	treatment_contrast	interpretation
+GSE125966	IPI	538	96	10	NA	NA	NA	NA	2	NOT_RUN	total_deaths_96_below_required_100	GA101 versus Rituximab	exploratory amendment; not original development prespecification
+GSE125966	COO	538	96	9	3.70541133800521	2	0.156812309606672	0.156812309606672	2	ESTIMATED	PASS	GA101 versus Rituximab	exploratory amendment; not original development prespecification
+GSE125966	treatment	538	96	8	1.23006645016426	1	0.267394115486566	0.534788230973132	2	ESTIMATED	PASS	GA101 versus Rituximab	exploratory amendment; not original development prespecification
+GSE117556	IPI	928	153	10	5.12668942163873	3	0.162751928607402	0.325503857214803	2	ESTIMATED	PASS	RB-CHOP versus R-CHOP	exploratory amendment; not original development prespecification
+GSE117556	COO	928	153	9	4.7145564254331	2	0.094677565015075	0.156812309606672	2	ESTIMATED	PASS	RB-CHOP versus R-CHOP	exploratory amendment; not original development prespecification
+GSE117556	treatment	928	153	8	0.211959339924988	1	0.645236008920527	0.645236008920527	2	ESTIMATED	PASS	RB-CHOP versus R-CHOP	exploratory amendment; not original development prespecification
