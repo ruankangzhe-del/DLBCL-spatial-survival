@@ -40,4 +40,4 @@ SIDISH preprocessing was reconstructed and matched saved inputs (29,668 cells, 2
 
 ## License
 
-Original software: MIT, copyright Kangzhe Ruan and Bingyue Cao. Data/model reuse terms and third-party exceptions are described in [LICENSE_SCOPE.md](LICENSE_SCOPE.md).
+Original software: [MIT](LICENSE), copyright Kangzhe Ruan and Bingyue Cao. The 27 study-generated public aggregate tables and five frozen model-definition files listed in [DATA_LICENSE_MANIFEST.tsv](DATA_LICENSE_MANIFEST.tsv) are licensed under [CC BY 4.0](LICENSE-DATA.md). They may be reused under that license without a separate application. Patient-level data, raw sequencing files and underlying third-party materials are outside this grant. See [LICENSE_SCOPE.md](LICENSE_SCOPE.md) for the exact scope and exclusions.

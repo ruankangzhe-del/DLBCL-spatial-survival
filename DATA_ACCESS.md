@@ -2,6 +2,8 @@
 
 The `source_data/` directory contains aggregate study outputs. Frozen model definitions are in `models/`. These are the data actually distributed in this repository.
 
+The 27 public study-generated aggregate tables and five model-definition files identified in [DATA_LICENSE_MANIFEST.tsv](DATA_LICENSE_MANIFEST.tsv) can be downloaded without an application and reused under [CC BY 4.0](LICENSE-DATA.md). The grant is limited to those original outputs and does not change access conditions or licenses for the underlying third-party datasets.
+
 ## Original public resources
 
 |Resource|Original source|
