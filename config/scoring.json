@@ -1,0 +1,25 @@
+{
+  "state": "models/frozen_model_state.json",
+  "universe": "models/06_common_bulk_gene_universe.tsv",
+  "modules": "models/frozen_modules.tsv",
+  "expected_scores": "data/internal_restricted/bridge/expected_frozen_scores.tsv.gz",
+  "compatibility_reference": "source_data/bridge/score_compatibility.tsv",
+  "strict_absolute_tolerance": 1e-10,
+  "cohorts": {
+    "GSE125966": {
+      "expression": "data/internal_restricted/bridge/GSE125966_bridge_expression.tsv.gz",
+      "expected_n": 553,
+      "clinical_status": "READY"
+    },
+    "GSE117556": {
+      "expression": "data/internal_restricted/bridge/GSE117556_bridge_expression.tsv.gz",
+      "expected_n": 928,
+      "clinical_status": "READY"
+    },
+    "GSE87371": {
+      "expression": "data/internal_restricted/bridge/GSE87371_bridge_expression.tsv.gz",
+      "expected_n": 223,
+      "clinical_status": "BLOCKED_FROZEN_LP_COMPATIBILITY"
+    }
+  }
+}
